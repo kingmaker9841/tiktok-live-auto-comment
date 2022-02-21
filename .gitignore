@@ -1,0 +1,6 @@
+.env
+node_modules
+requestQuery.txt
+response.txt
+yarn.lock
+package-lock.json
